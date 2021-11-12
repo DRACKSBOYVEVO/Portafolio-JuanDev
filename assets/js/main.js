@@ -166,7 +166,7 @@
   });
 
   /**
-   * Initiate portfolio details lightbox 
+   * Initiate Detalles del proyecto lightbox 
    */
   const portfolioDetailsLightbox = GLightbox({
     selector: '.portfolio-details-lightbox',
@@ -175,7 +175,7 @@
   });
 
   /**
-   * Portfolio details slider
+   * Detalles del proyecto slider
    */
   new Swiper('.portfolio-details-slider', {
     speed: 400,

@@ -154,16 +154,16 @@ h1, h2, h3, h4, h5, h6 {
 # Header Social Links
 --------------------------------------------------------------*/
 .header-social-links {
-  padding-right: 15px;
+  padding-right: 17px;
 }
 
 .header-social-links a {
-  color: #6f6f6f;
-  padding-left: 6px;
+  color: #7A7C7E;
+  padding-left: 9px;
   display: inline-block;
   line-height: 0px;
   transition: 0.3s;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .header-social-links a:hover {
@@ -240,7 +240,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 14px;
   top: calc(100% + 30px);
   margin: 0;
-  padding: 10px 0;
+  padding: 16px 0;
   z-index: 99;
   opacity: 0;
   visibility: hidden;
@@ -344,12 +344,12 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-mobile ul {
   display: block;
   position: absolute;
-  top: 55px;
+  top: 24px;
   right: 15px;
-  bottom: 15px;
+  bottom: 324px;
   left: 15px;
   padding: 10px 0;
-  border-radius: 10px;
+  border-radius: 16px;
   background-color: #fff;
   overflow-y: auto;
   transition: 0.3s;
@@ -899,7 +899,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Portfolio Details
+# Detalles del proyecto
 --------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 0;
